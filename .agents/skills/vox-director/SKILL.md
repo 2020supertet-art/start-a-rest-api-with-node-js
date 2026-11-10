@@ -9,9 +9,9 @@ description: >
   a topic / product / person into a punchy narrated collage video — even if they don't say
   the word "Vox". Also use when reproducing Stav Zilber / rom1trs / Higgsfield-style collage
   ad workflows.
-  Three input modalities: a topic (B-roll), a talking-head video (A-roll mode), or a single
+  Three input modalities: a topic (B-roll / faceless video), a talking-head video (A-roll mode), or a single
   photo of a person/product anchored into the collage (C-roll mode).
-  Triggers: "vox video", "collage video", "motion collage", "paper collage
+  Triggers: "vox video", "faceless vox", "faceless video", "faceless vox style video", "collage video", "motion collage", "paper collage
   explainer", "make a collage ad", "turn this topic into a collage video", "turn my
   photo/this product shot into a collage video".
 ---
